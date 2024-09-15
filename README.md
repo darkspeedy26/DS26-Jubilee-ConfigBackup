@@ -2,7 +2,7 @@
 !!! WIP - use at your own risk !!!
 
 I modified and tried to simplify typqxq's backupconfig of his KTCv1 for his duet to work with his KTCCv2.
-I also rotated the bed 90°, but that might have broken the pause command
+I also rotated the bed 90° in the config, but that might have broken the pause command. Might also have broken other config things
 not every uploaded .cfg file is used
 
 
