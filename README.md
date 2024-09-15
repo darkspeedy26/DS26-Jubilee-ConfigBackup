@@ -27,3 +27,4 @@ I also rotated the bed 90° in the config, but that might have broken the pause 
 - https://github.com/TypQxQ/DuetBackup/tree/fd98069c8b25ab5cdabb592dc4f357e2a89a62ec/qTC-Klipper - the exact branch on what this is based on mostly (its probably out of date by now)
 - https://github.com/TypQxQ/KTC - what this mashup is meant for
 - https://github.com/machineagency/jubilee - the toolchanger/printer
+- https://youtu.be/Qzjp7f88pGU?si=0Wt-MwgSmdutiFYD - pre E3D Revo and pre enclosure video of the printer
