@@ -28,3 +28,4 @@ I also rotated the bed 90° in the config, but that might have broken the pause 
 - https://github.com/TypQxQ/KTC - what this mashup is meant for
 - https://github.com/machineagency/jubilee - the toolchanger/printer
 - https://youtu.be/Qzjp7f88pGU?si=0Wt-MwgSmdutiFYD - pre E3D Revo and pre enclosure video of the printer
+- https://discord.com/channels/627982902738681876/760568333564903444/926141946039242802 - "made-a-jubilee" post of this printer (pre enclosure and tool upgrades)
