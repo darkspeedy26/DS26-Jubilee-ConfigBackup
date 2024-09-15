@@ -3,7 +3,6 @@
 
 I modified and tried to simplify typqxq's backupconfig of his KTCv1 for his duet to work with his KTCCv2.
 I also rotated the bed 90° in the config, but that might have broken the pause command. Might also have broken other config things.
-Not every uploaded .cfg file is used.
 
 
 List of issues:
@@ -12,6 +11,7 @@ List of issues:
 - cant get my bigtreetech sfs2.0 smart filament sensors to work
 - some comments in the configs might not be translated from Dutch to English
 - everytime you dock/undock a tool manually without printing, the bed moves Z higher. This is good while printing, but can be annoying when callibrating tool offsets manually with camera. Might be baked into KTCCv2 (not sure)
+- cleanup of unused .cfg files
 
 
 used hardware:
