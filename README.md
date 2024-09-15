@@ -1,11 +1,11 @@
 # DS26-Jubilee-ConfigBackup
-!!! WIP - use at your own risk !!!
+## !!! WIP - USE AT YOUR OWN RISK !!!
 
 I made a mix of [TypQxQ's](https://github.com/TypQxQ/KTC) KTCv1 backupconfig for his duet to work with his, wich i mixed with examples for his [KTCv2](https://github.com/TypQxQ/KTC) which i mixed with my Jubilee setup
 I also rotated the bed 90° in the config, but that might have broken the pause command. Might also have broken other config things.
 
 
-List of issues:
+### List of issues:
 - usually at startup i have to unlock or it errors out. I might have configured the lock sequence wrong while editing out 
 - Pause crashes the tool. I should let it park the tool first, and then move toolhead to safe position
 - cant get my bigtreetech sfs2.0 smart filament sensors to work
@@ -14,7 +14,7 @@ List of issues:
 - cleanup of unused .cfg files
 
 
-used hardware:
+### used hardware:
 - bigtreetech E3 mini - used for X Y and Lock
 - BTT E3 DIP - used for 3x Z
 - bigtreetech octopus i think v1.1 - used for tools and most fans
@@ -23,7 +23,7 @@ used hardware:
 - 4x BabyBullet tools with E3D revo micro's + orbiter 2.0
 
 
-usefull links:
+### usefull links:
 - https://github.com/TypQxQ/DuetBackup/tree/fd98069c8b25ab5cdabb592dc4f357e2a89a62ec/qTC-Klipper - the exact branch on what this is based on mostly (its probably out of date by now)
 - https://github.com/TypQxQ/KTC - what this mashup is meant for
 - https://github.com/machineagency/jubilee - the toolchanger/printer
